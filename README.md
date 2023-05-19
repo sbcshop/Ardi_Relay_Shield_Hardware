@@ -2,7 +2,7 @@
 <img src="https://cdn.shopify.com/s/files/1/1217/2104/files/ArdiRelayShield.jpg?v=1683883429">
 
 
-In this github repo you will find hardware files for Ardi Display Shield 
+In this github repo you will find hardware files for Ardi Relay Shield 
 
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/Ardi_Relay_Shield_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View

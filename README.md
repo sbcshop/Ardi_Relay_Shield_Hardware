@@ -1,6 +1,7 @@
 # Ardi_Relay_Shield_Hardware
 <img src="https://cdn.shopify.com/s/files/1/1217/2104/files/ArdiRelayShield.jpg?v=1683883429">
-
+Ardi Relay Shield - a versatile 4-channel optoisolated relay board designed in the Arduino form factor, this shield seamlessly integrates with your Arduino Uno 
+and compatible boards, Ardi32 and ArdiPi.
 
 In this github repo you will find hardware files for Ardi Relay Shield 
 
